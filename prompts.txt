@@ -1,0 +1,106 @@
+Desk
+Chair
+Computer
+Monitor
+Keyboard
+Mouse
+Laptop
+Printer
+Scanner
+Photocopier
+Telephone
+Stapler
+Notepad
+Pen
+Pencil
+Marker
+Highlighter
+Paperclip
+Binder
+File Folder
+Envelope
+Calendar
+Clock
+Lamp
+Trash Can
+Bookshelf
+Books
+Magazines
+Newspapers
+Whiteboard
+Projector
+Cup
+Mug
+Water Bottle
+Plate
+Fork
+Spoon
+Knife
+Microwave
+Refrigerator
+Coffee Maker
+Tea Bag
+Sugar
+Creamer
+Salt
+Pepper
+Napkin
+Tissue Box
+Hand Sanitizer
+Soap
+Towel
+First Aid Kit
+Fire Extinguisher
+Backpack
+Briefcase
+Purse
+Wallet
+Keys
+Cell Phone
+Tablet
+Headphones
+Speaker
+USB Drive
+Charger
+Extension Cord
+Outlet
+Light Switch
+Window
+Blinds
+Curtain
+Carpet
+Tile
+Door
+Doorknob
+Elevator Button
+Stairs
+Railing
+Painting
+Photograph
+Plant
+Flower
+Vase
+Couch
+Armchair
+Coffee Table
+Water Cooler
+Fan
+Heater
+Air Conditioner
+Rug
+Mirror
+Bulletin Board
+Push Pin
+Rubber Band
+Eraser
+Ruler
+Scissors
+Tape
+Glue
+Sticky Notes
+Hole Punch
+Calculator
+Business Card
+Stamp
+Ink Pad
+Paper Shredder
