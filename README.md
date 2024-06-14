@@ -1,12 +1,12 @@
 ## Object Detection in Mixed Reality with Quest 3
 
-This prototype has been developed during 2nd semester of IMLEX (Erasmus Mundus Master's degree Imaging and Light in Extended Reality) at University Jean-Monnet in  France.
+This prototype was developed during 2nd semester of IMLEX (Erasmus Mundus Master's degree Imaging and Light in Extended Reality) at University Jean-Monnet in  France.
 
-Developers: **Dženita Đulović, Daniil Brodt**
+Team: **Dženita Đulović, Daniil Brodt**
 
 ## Instructions
 
-Prototype has a different segments to setup before running.
+Prototype has several segments to setup before testing.
 
 Firstly, **scrcpy** for accessing the camera of Quest 3:
 1. Download and build scrcpy from this PR: [https://github.com/Genymobile/scrcpy/pull/4658](https://github.com/Genymobile/scrcpy/pull/4658), for example, as follows:
@@ -47,4 +47,4 @@ Setup **ngrok** for secure communication with the Python server (necessary since
 1. Install Five Server extension to Visual Studio Code
 2. Start the server (config file is present in the root folder)
 
-With everything running, you are able to open the website url in Meta Quest 3 browser and enjoy object detection in mixed reality environment.
+With everything running, you can open the website url in Meta Quest 3 browser and enjoy object detection in mixed mixed-reality environment.
