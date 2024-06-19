@@ -45,6 +45,7 @@ Setup **ngrok** for secure communication with the Python server (necessary since
 
 **Web application** for the mixed reality experience is built with **ThreeJS**. To run it:
 1. Install Five Server extension to Visual Studio Code
-2. Start the server (config file is present in the root folder)
+3. Start the server (config file is present in the root folder)
+4. Make sure that the headset and the server are on the same network
 
 With everything running, you can open the website url in Meta Quest 3 browser and enjoy object detection in mixed mixed-reality environment.
